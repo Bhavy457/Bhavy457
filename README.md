@@ -1,3 +1,5 @@
+- ![#f03c15](https://via.placeholder.com/15/000000/000000?text=+) `#000000`
+
 <h2 align="left">Hi 👋! My name is Bhavy Jain and I'm a Passionate Developer, from India</h2>
 
 ###
