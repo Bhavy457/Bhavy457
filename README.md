@@ -1,15 +1,14 @@
 
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/bhavy-jain" target="_blank"> Bhavy Jain </a></h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Frontend+Developer+%3A)" /> </h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Software+Developer+%3A)" /> </h3>
 
 - 🌱 Learning Never Stops 🚀
 
 - 💬 Ask me about **Web Development, Java, DBMS, MySQL**
 
-- 👨‍💻 Check out my personal portfolio : **<a href="#" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="https://portfolio-main-bhavy.vercel.app/" target="_blank">Portfolio</a>**
 
 - 😄 Pronouns: He/His
-
 
 
 ###
