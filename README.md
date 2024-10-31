@@ -55,8 +55,7 @@
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-   [![An image of @bhavy457's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhavy457)](https://holopin.io/@bhavy457)
-</div><br/>
+
 
 ###
 
